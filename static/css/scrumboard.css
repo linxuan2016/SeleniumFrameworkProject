@@ -1,0 +1,73 @@
+html {
+    font-size: 1em;
+    line_height:2;
+}
+*
+.list {
+    width: 30%;
+    float: left;
+    border: 1px;
+    border-style: solid;
+    border-color: grey;
+    padding: 10px;
+    background-color: #2A9FBC;
+
+}
+
+.list h3 {
+    display: inline;
+    padding:20px
+    padding-left: 20px;
+    color: white;
+    margin: 10px;
+}
+
+.card {
+    cursor: pointer;
+    background-color: grey;
+    padding: 10px;
+    margin: 20px 0px;
+    color: white;
+}
+
+.card h4 {
+    margin: 0px;
+}
+.description {
+    color: lightgrey;
+}
+
+.flex {
+    desplay: flex;
+    margin: 40px;
+}
+
+.flex input {
+    width: 100%;
+}
+.flex button {
+    flex-basis: auto;
+}
+
+.card button,
+.card .flex,
+.card textarea {
+    color: #404040;
+    margin: 2px 0px;
+}
+
+.card textarea {
+    width: 100%;
+    resize: vertical;
+
+}
+
+.logout,
+.show-filters {
+    float: right;
+}
+
+.list-sort {
+    color: white;
+    margin: 20px;
+}
