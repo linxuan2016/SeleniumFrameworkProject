@@ -4,4 +4,4 @@
 __pycache__/
 *.py[cod]
 db.sqlit3
-'*.sqlite3' 
+*.sqlite3 
