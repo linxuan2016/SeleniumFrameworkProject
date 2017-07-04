@@ -1,3 +1,5 @@
 /logs
 .idea/
 *.log
+/__pycache__
+db.sqlit3
