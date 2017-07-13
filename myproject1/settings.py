@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'auth_api',
     'django_behave',
+    'behave',
 
 ]
 
